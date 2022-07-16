@@ -5,6 +5,6 @@ y=20
 print(y)
 #я ввела переменную y
 print(x*y)
-
+print(x)
 
 
