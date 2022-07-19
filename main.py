@@ -1,10 +1,6 @@
-x=10
-print(x)
-#я ввела переменную х
-y=20
-print(y)
-#я ввела переменную y
-print(x*y)
-print(x)
-
-
+x=int(input("1 katet"))
+#print(x)
+y=int(input("2 katet"))
+#print(y)
+s=x*y*0,5,6
+print(s)
