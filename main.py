@@ -1,12 +1,9 @@
-x=int(input("1n"))
-print(x)
-#я ввела переменную х
-y=int(input("2n"))
-print(y)
-#я ввела переменную y
-z=int(input("3n"))
-print(z)
-#я ввела переменную z
-sum=x+y+z
-print(sum)
-#я ввела переменную sum
+a=int(input("1 katet"))
+print(a)
+#я ввела переменную a
+b=int(input("2 katet"))
+print(b)
+#я ввела переменную b
+s=a*b*0.5
+print(s)
+#я ввела переменную s
